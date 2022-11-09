@@ -2,6 +2,8 @@
 
 This Zoom App sample uses Vue.js + Firebase to build a serverless Todo app that lives right in your Zoom Client
 
+![image](https://user-images.githubusercontent.com/6127137/200740037-aa985d7e-38fd-4756-869d-b6482a337054.png)
+
 ## Prerequisites
 
 1. [Node JS](https://nodejs.org/en/)

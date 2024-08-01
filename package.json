@@ -13,10 +13,10 @@
   },
   "dependencies": {
     "@mdi/font": "5.9.55",
-    "@zoom/appssdk": "^0.16.5",
+    "@zoom/appssdk": "^0.16.21",
     "concurrently": "^7.4.0",
-    "firebase": "^9.10.0",
-    "firebase-functions": "^4.0.1",
+    "firebase": "^10.12.4",
+    "firebase-functions": "^5.0.1",
     "pinia": "^2.0.23",
     "roboto-fontface": "*",
     "vue": "^3.2.37",
